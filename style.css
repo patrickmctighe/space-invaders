@@ -9,6 +9,24 @@
 .grid div{
     width: 20px;
     height: 20px;
-    border: 1px solid red;
-    box-sizing: border-box;
+    
+   
+}
+
+.invader{
+    background-color: rgb(98, 8, 153);
+    border-radius: 1em;
+}
+
+.shooter{
+    background-color: blue;
+    
+}
+
+.laser{
+    background-color: yellow;
+}
+
+.boom{
+    background-color: red;
 }
